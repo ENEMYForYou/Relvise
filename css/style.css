@@ -284,6 +284,7 @@ body {
     }
 }
 .services__body_item {
+    height: 100%;
     -webkit-box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
             box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
     background-color: white;
